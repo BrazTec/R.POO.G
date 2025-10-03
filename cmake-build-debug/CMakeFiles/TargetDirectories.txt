@@ -1,0 +1,3 @@
+C:/Users/eduar/CLionProjects/R.POO.G/cmake-build-debug/CMakeFiles/jogoascii.dir
+C:/Users/eduar/CLionProjects/R.POO.G/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/eduar/CLionProjects/R.POO.G/cmake-build-debug/CMakeFiles/rebuild_cache.dir
